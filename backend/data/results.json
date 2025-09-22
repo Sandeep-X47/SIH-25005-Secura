@@ -1,0 +1,2772 @@
+[
+  {
+    "id": "0681df5237ca44048df593e34fcc93e0",
+    "filename": "9be1a74414734395923edfb8ace3a073_cow(1)_SIH.jpeg",
+    "file_url": "/uploads/9be1a74414734395923edfb8ace3a073_cow(1)_SIH.jpeg",
+    "timestamp": "2025-09-09T13:30:53.025581Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.908476710319519,
+        "box": [
+          30.940044403076172,
+          24.72713279724121,
+          255.6007537841797,
+          174.2928009033203
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "d6d4c7a03ab544b9b57445c70db28f5a",
+    "filename": "771968657fee428d94cac3448c4d764c_cow(1)_SIH.jpeg",
+    "file_url": "/uploads/771968657fee428d94cac3448c4d764c_cow(1)_SIH.jpeg",
+    "timestamp": "2025-09-09T13:42:31.066234Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.908476710319519,
+        "box": [
+          30.940044403076172,
+          24.72713279724121,
+          255.6007537841797,
+          174.2928009033203
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "d1917c7390ab47bfaa0bdabb87ecf4e0",
+    "filename": "a3d3edc6f236423ebd7f9057cebc5dd3_pexels-pripicart-457447.jpg",
+    "file_url": "/uploads/a3d3edc6f236423ebd7f9057cebc5dd3_pexels-pripicart-457447.jpg",
+    "timestamp": "2025-09-09T16:04:17.945525Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9268222451210022,
+        "box": [
+          1081.21337890625,
+          1066.840576171875,
+          2749.59228515625,
+          2463.367919921875
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 4096,
+        "h": 2731
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 256
+      },
+      "rightmost": {
+        "x": 4095,
+        "y": 731
+      },
+      "topmost": {
+        "x": 1112,
+        "y": 0
+      },
+      "bottommost": {
+        "x": 1683,
+        "y": 2730
+      },
+      "centroid": {
+        "x": 1761,
+        "y": 1012
+      },
+      "head": {
+        "x": 0,
+        "y": 256
+      },
+      "tail": {
+        "x": 4095,
+        "y": 731
+      },
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "contour_area": 5370947.5
+    },
+    "measurements": {
+      "body_length_px": 4122.4567917687145,
+      "body_length_cm": null,
+      "height_px": 2789.0752947885794,
+      "height_cm": null,
+      "back_angle_deg": 149.9010418463456,
+      "hip_angle_deg": 149.9010418463456,
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "score_0_100": 48.95546883085552,
+      "score_components": {
+        "length": 0.0,
+        "height": 0.0,
+        "back_angle": 32.4505209231728,
+        "hip_angle": 9.50494790768272,
+        "hoof_bonus": 7.0
+      }
+    }
+  },
+  {
+    "id": "2078fadabd234ac39a6574a12d219bef",
+    "filename": "90c246e02c5c489090676f9da213f824_pexels-pripicart-457447.jpg",
+    "file_url": "/uploads/90c246e02c5c489090676f9da213f824_pexels-pripicart-457447.jpg",
+    "timestamp": "2025-09-09T16:06:04.089805Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9268222451210022,
+        "box": [
+          1081.21337890625,
+          1066.840576171875,
+          2749.59228515625,
+          2463.367919921875
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 4096,
+        "h": 2731
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 256
+      },
+      "rightmost": {
+        "x": 4095,
+        "y": 731
+      },
+      "topmost": {
+        "x": 1112,
+        "y": 0
+      },
+      "bottommost": {
+        "x": 1683,
+        "y": 2730
+      },
+      "centroid": {
+        "x": 1761,
+        "y": 1012
+      },
+      "head": {
+        "x": 0,
+        "y": 256
+      },
+      "tail": {
+        "x": 4095,
+        "y": 731
+      },
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "contour_area": 5370947.5
+    },
+    "measurements": {
+      "body_length_px": 4122.4567917687145,
+      "body_length_cm": null,
+      "height_px": 2789.0752947885794,
+      "height_cm": null,
+      "back_angle_deg": 149.9010418463456,
+      "hip_angle_deg": 149.9010418463456,
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "score_0_100": 48.95546883085552,
+      "score_components": {
+        "length": 0.0,
+        "height": 0.0,
+        "back_angle": 32.4505209231728,
+        "hip_angle": 9.50494790768272,
+        "hoof_bonus": 7.0
+      }
+    }
+  },
+  {
+    "id": "d709a0cf508c4dcb8045ed37ee330857",
+    "filename": "cf578b6b4e9a47dbbdb9d8dfa04aa37b_pexels-pripicart-457447.jpg",
+    "file_url": "/uploads/cf578b6b4e9a47dbbdb9d8dfa04aa37b_pexels-pripicart-457447.jpg",
+    "timestamp": "2025-09-09T16:06:27.185218Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9268222451210022,
+        "box": [
+          1081.21337890625,
+          1066.840576171875,
+          2749.59228515625,
+          2463.367919921875
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 4096,
+        "h": 2731
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 256
+      },
+      "rightmost": {
+        "x": 4095,
+        "y": 731
+      },
+      "topmost": {
+        "x": 1112,
+        "y": 0
+      },
+      "bottommost": {
+        "x": 1683,
+        "y": 2730
+      },
+      "centroid": {
+        "x": 1761,
+        "y": 1012
+      },
+      "head": {
+        "x": 0,
+        "y": 256
+      },
+      "tail": {
+        "x": 4095,
+        "y": 731
+      },
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "contour_area": 5370947.5
+    },
+    "measurements": {
+      "body_length_px": 4122.4567917687145,
+      "body_length_cm": null,
+      "height_px": 2789.0752947885794,
+      "height_cm": null,
+      "back_angle_deg": 149.9010418463456,
+      "hip_angle_deg": 149.9010418463456,
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "score_0_100": 48.95546883085552,
+      "score_components": {
+        "length": 0.0,
+        "height": 0.0,
+        "back_angle": 32.4505209231728,
+        "hip_angle": 9.50494790768272,
+        "hoof_bonus": 7.0
+      }
+    }
+  },
+  {
+    "id": "3e80342698b04a05bb786c30409cabac",
+    "filename": "d1b8be55cab64c55bbf1ed6de6484c8c_pexels-pripicart-457447.jpg",
+    "file_url": "/uploads/d1b8be55cab64c55bbf1ed6de6484c8c_pexels-pripicart-457447.jpg",
+    "timestamp": "2025-09-09T16:33:12.588574Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9268222451210022,
+        "box": [
+          1081.21337890625,
+          1066.840576171875,
+          2749.59228515625,
+          2463.367919921875
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 4096,
+        "h": 2731
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 256
+      },
+      "rightmost": {
+        "x": 4095,
+        "y": 731
+      },
+      "topmost": {
+        "x": 1112,
+        "y": 0
+      },
+      "bottommost": {
+        "x": 1683,
+        "y": 2730
+      },
+      "centroid": {
+        "x": 1761,
+        "y": 1012
+      },
+      "head": {
+        "x": 0,
+        "y": 256
+      },
+      "tail": {
+        "x": 4095,
+        "y": 731
+      },
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "contour_area": 5370947.5
+    },
+    "measurements": {
+      "body_length_px": 4122.4567917687145,
+      "body_length_cm": null,
+      "height_px": 2789.0752947885794,
+      "height_cm": null,
+      "back_angle_deg": 149.9010418463456,
+      "hip_angle_deg": 149.9010418463456,
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "score_0_100": 48.95546883085552,
+      "score_components": {
+        "length": 0.0,
+        "height": 0.0,
+        "back_angle": 32.4505209231728,
+        "hip_angle": 9.50494790768272,
+        "hoof_bonus": 7.0
+      }
+    }
+  },
+  {
+    "id": "1bff982915ff49f68a5e909d4441e7f9",
+    "filename": "1cb55ce691cd4c13a59dfa4dc545e20d_pexels-pixabay-36347.jpg",
+    "file_url": "/uploads/1cb55ce691cd4c13a59dfa4dc545e20d_pexels-pixabay-36347.jpg",
+    "timestamp": "2025-09-09T16:37:26.458953Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9148222208023071,
+        "box": [
+          1131.361328125,
+          71.9250717163086,
+          4080.786865234375,
+          3209.695068359375
+        ]
+      },
+      {
+        "class": "cow",
+        "confidence": 0.8657390475273132,
+        "box": [
+          3955.966796875,
+          1425.4615478515625,
+          4629.47509765625,
+          1910.97412109375
+        ]
+      },
+      {
+        "class": "cow",
+        "confidence": 0.8076198697090149,
+        "box": [
+          4982.99609375,
+          1469.3082275390625,
+          5145.884765625,
+          1566.3096923828125
+        ]
+      },
+      {
+        "class": "cow",
+        "confidence": 0.6790305972099304,
+        "box": [
+          80.39820861816406,
+          1832.9725341796875,
+          388.2923583984375,
+          1981.7991943359375
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 5184,
+        "h": 3456
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 0
+      },
+      "rightmost": {
+        "x": 5183,
+        "y": 1061
+      },
+      "topmost": {
+        "x": 0,
+        "y": 0
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 3455
+      },
+      "centroid": {
+        "x": 1801,
+        "y": 1230
+      },
+      "head": {
+        "x": 0,
+        "y": 0
+      },
+      "tail": {
+        "x": 5183,
+        "y": 1061
+      },
+      "hoof_front": {
+        "x": 1388,
+        "y": 3179
+      },
+      "hoof_back": {
+        "x": 1556,
+        "y": 3222
+      },
+      "contour_area": 7725616.0
+    },
+    "measurements": {
+      "body_length_px": 5290.482964720707,
+      "body_length_cm": null,
+      "height_px": 3455.0,
+      "height_cm": null,
+      "back_angle_deg": 142.80800921558037,
+      "hip_angle_deg": 142.80800921558037,
+      "hoof_front": {
+        "x": 1388,
+        "y": 3179
+      },
+      "hoof_back": {
+        "x": 1556,
+        "y": 3222
+      },
+      "score_0_100": 43.763604147011165,
+      "score_components": {
+        "length": 0.0,
+        "height": 0.0,
+        "back_angle": 28.904004607790185,
+        "hip_angle": 9.859599539220982,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "0394e22b8073437083c19d3dd75c9084",
+    "filename": "8bf02fbc8b7b402dbc1668c46b9fe579_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/8bf02fbc8b7b402dbc1668c46b9fe579_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-09T16:38:52.787699Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "ca12d3c264a74437a317cd14ef495deb",
+    "filename": "d9f2b7389d6246478fdb6311281d6eaa_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/d9f2b7389d6246478fdb6311281d6eaa_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-09T16:43:06.035917Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "b1644c7b5ff2408cbd77f4e745d3eee8",
+    "filename": "e2c1ec246764429db37cc5d047ee3e76_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/e2c1ec246764429db37cc5d047ee3e76_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-09T17:04:54.344492Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "lame": "no",
+    "score": 0.3,
+    "method": "fallback",
+    "details": {
+      "knee_left": {
+        "mean": 120.0,
+        "std": 5.0,
+        "min": 110.0,
+        "max": 130.0
+      },
+      "knee_right": {
+        "mean": 118.0,
+        "std": 4.5,
+        "min": 108.0,
+        "max": 128.0
+      },
+      "hip_left": {
+        "mean": 140.0,
+        "std": 6.0,
+        "min": 130.0,
+        "max": 150.0
+      },
+      "hip_right": {
+        "mean": 142.0,
+        "std": 5.5,
+        "min": 132.0,
+        "max": 152.0
+      },
+      "ankle_left": {
+        "mean": 200.0,
+        "std": 8.0,
+        "min": 190.0,
+        "max": 210.0
+      },
+      "ankle_right": {
+        "mean": 198.0,
+        "std": 7.5,
+        "min": 188.0,
+        "max": 208.0
+      },
+      "asymmetry_knee_deg_mean": 2.0,
+      "stride_asymmetry_px": 2.0,
+      "frames_sampled": 30
+    },
+    "time_taken_sec": 5.9604644775390625e-06,
+    "id": "faab801bce5f4deaae41095c334ccdae",
+    "filename": "WhatsApp Video 2025-09-10 at 00.07.38_1e85cadb.mp4",
+    "timestamp": "2025-09-10T01:01:49.245409Z"
+  },
+  {
+    "lame": "no",
+    "score": 0.3,
+    "method": "fallback",
+    "details": {
+      "knee_left": {
+        "mean": 120.0,
+        "std": 5.0,
+        "min": 110.0,
+        "max": 130.0
+      },
+      "knee_right": {
+        "mean": 118.0,
+        "std": 4.5,
+        "min": 108.0,
+        "max": 128.0
+      },
+      "hip_left": {
+        "mean": 140.0,
+        "std": 6.0,
+        "min": 130.0,
+        "max": 150.0
+      },
+      "hip_right": {
+        "mean": 142.0,
+        "std": 5.5,
+        "min": 132.0,
+        "max": 152.0
+      },
+      "ankle_left": {
+        "mean": 200.0,
+        "std": 8.0,
+        "min": 190.0,
+        "max": 210.0
+      },
+      "ankle_right": {
+        "mean": 198.0,
+        "std": 7.5,
+        "min": 188.0,
+        "max": 208.0
+      },
+      "asymmetry_knee_deg_mean": 2.0,
+      "stride_asymmetry_px": 2.0,
+      "frames_sampled": 30
+    },
+    "time_taken_sec": 5.0067901611328125e-06,
+    "id": "79e804156fe64251b84bb34b16a05c0b",
+    "filename": "WhatsApp Video 2025-09-10 at 00.07.38_dc2dad31.mp4",
+    "timestamp": "2025-09-10T01:03:04.190050Z"
+  },
+  {
+    "id": "f69905dd4fdc4d7fb7c510faeeed7522",
+    "filename": "5595add818ac48598bb04c99aba9ae85_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/5595add818ac48598bb04c99aba9ae85_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T01:18:27.199003Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "03476188056d45438cf3a9a16f490d67",
+    "filename": "e922045d18e940beb85be5dc318acb1f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/e922045d18e940beb85be5dc318acb1f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T01:22:56.607232Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "789f142bcedb44668880475851f37dae",
+    "filename": "571b687ea6734b768aae8d996055b21a_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/571b687ea6734b768aae8d996055b21a_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T01:24:16.523929Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "776c44d86de647068be581cf5bb49840",
+    "filename": "36e377f3ca7845008858b84e2bbec493_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/36e377f3ca7845008858b84e2bbec493_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T01:31:47.368646Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "25ea118ae7dc4b458bb45d351683f72c",
+    "filename": "fcc1137753ba4900bb19f7bb5521218f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/fcc1137753ba4900bb19f7bb5521218f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T02:52:45.871633Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "bee75c0c7e3846e98945004a4eac4fa4",
+    "filename": "66fe490fc82745daaf9b8c08c5845ae6_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/66fe490fc82745daaf9b8c08c5845ae6_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T03:13:03.838148Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "8ce101dca8b44abc9a27d4c32861e05a",
+    "filename": "7640a3cbfea74e67990195a9fbde8a73_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/7640a3cbfea74e67990195a9fbde8a73_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T03:22:24.618386Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "dc172a7878ba4b2fbe786fb96b9eba39",
+    "filename": "95459d590fa342db8176912f779c19e8_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/95459d590fa342db8176912f779c19e8_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T03:32:28.482142Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "68af4c76e57746eebaf7cc57171c33d9",
+    "filename": "743ab05dbaa640e7a39124692baa076f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/743ab05dbaa640e7a39124692baa076f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-10T03:55:19.305914Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "d74583b46dca42718897ad8764c5d0ed",
+    "filename": "538ea85fad0c48fbb7de65966e5bd578_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/538ea85fad0c48fbb7de65966e5bd578_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-12T11:46:44.667138Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "6243d537f8f04c5299ae920a9e18dff0",
+    "filename": "bad3a5ec0a6845509162bae8b2ba7a4f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/bad3a5ec0a6845509162bae8b2ba7a4f_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-12T12:16:06.146402Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "c369b270493e40d28050388731cfc886",
+    "filename": "39c507cbb3844344b767c463e016e679_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/39c507cbb3844344b767c463e016e679_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-12T14:52:34.936540Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "d63dee77c9464627aedf4ef81ff087ae",
+    "filename": "781545ffcf3144fe8392d0412bf9c443_Gemini_Generated_Image_axxb6baxxb6baxxb.png",
+    "file_url": "/uploads/781545ffcf3144fe8392d0412bf9c443_Gemini_Generated_Image_axxb6baxxb6baxxb.png",
+    "timestamp": "2025-09-13T03:46:05.674676Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.8260231018066406,
+        "box": [
+          53.88627624511719,
+          48.18423843383789,
+          831.2047729492188,
+          1184.0
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 616,
+        "w": 864,
+        "h": 568
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 653
+      },
+      "rightmost": {
+        "x": 863,
+        "y": 1183
+      },
+      "topmost": {
+        "x": 488,
+        "y": 616
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 1183
+      },
+      "centroid": {
+        "x": 422,
+        "y": 935
+      },
+      "head": {
+        "x": 0,
+        "y": 653
+      },
+      "tail": {
+        "x": 863,
+        "y": 1183
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 1183
+      },
+      "hoof_back": {
+        "x": 863,
+        "y": 1183
+      },
+      "contour_area": 382461.0
+    },
+    "measurements": {
+      "body_length_px": 1012.7531782226112,
+      "body_length_cm": null,
+      "height_px": 748.0862249767737,
+      "height_cm": null,
+      "back_angle_deg": 175.5988989072567,
+      "hip_angle_deg": 175.5988989072567,
+      "hoof_front": {
+        "x": 0,
+        "y": 1183
+      },
+      "hoof_back": {
+        "x": 863,
+        "y": 1183
+      },
+      "score_0_100": 82.59542350502727,
+      "score_components": {
+        "length": 11.617404653321667,
+        "height": 13.05741325069679,
+        "back_angle": 44.700550546371645,
+        "hip_angle": 8.220055054637164,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "af9ad3f2cd034f8a9a7a46a7f2d013c2",
+    "filename": "b58dc33c6b5840768f8d8645628544f1_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/b58dc33c6b5840768f8d8645628544f1_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-13T10:54:27.385358Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "b4ca36e55aea47238d8aae5afbf74934",
+    "filename": "f50ece75dd4a448796aea679abdc408c_Gemini_Generated_Image_axxb6baxxb6baxxb.png",
+    "file_url": "/uploads/f50ece75dd4a448796aea679abdc408c_Gemini_Generated_Image_axxb6baxxb6baxxb.png",
+    "timestamp": "2025-09-13T10:55:45.239337Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.8260231018066406,
+        "box": [
+          53.88627624511719,
+          48.18423843383789,
+          831.2047729492188,
+          1184.0
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 616,
+        "w": 864,
+        "h": 568
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 653
+      },
+      "rightmost": {
+        "x": 863,
+        "y": 1183
+      },
+      "topmost": {
+        "x": 488,
+        "y": 616
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 1183
+      },
+      "centroid": {
+        "x": 422,
+        "y": 935
+      },
+      "head": {
+        "x": 0,
+        "y": 653
+      },
+      "tail": {
+        "x": 863,
+        "y": 1183
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 1183
+      },
+      "hoof_back": {
+        "x": 863,
+        "y": 1183
+      },
+      "contour_area": 382461.0
+    },
+    "measurements": {
+      "body_length_px": 1012.7531782226112,
+      "body_length_cm": null,
+      "height_px": 748.0862249767737,
+      "height_cm": null,
+      "back_angle_deg": 175.5988989072567,
+      "hip_angle_deg": 175.5988989072567,
+      "hoof_front": {
+        "x": 0,
+        "y": 1183
+      },
+      "hoof_back": {
+        "x": 863,
+        "y": 1183
+      },
+      "score_0_100": 82.59542350502727,
+      "score_components": {
+        "length": 11.617404653321667,
+        "height": 13.05741325069679,
+        "back_angle": 44.700550546371645,
+        "hip_angle": 8.220055054637164,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "d25283b57f884f278253eb038f0b4ddb",
+    "filename": "2594a0cbe00147688aea9ccde374c78a_pexels-pixabay-36347.jpg",
+    "file_url": "/uploads/2594a0cbe00147688aea9ccde374c78a_pexels-pixabay-36347.jpg",
+    "timestamp": "2025-09-13T10:56:32.805064Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9148222208023071,
+        "box": [
+          1131.361328125,
+          71.9250717163086,
+          4080.786865234375,
+          3209.695068359375
+        ]
+      },
+      {
+        "class": "cow",
+        "confidence": 0.8657390475273132,
+        "box": [
+          3955.966796875,
+          1425.4615478515625,
+          4629.47509765625,
+          1910.97412109375
+        ]
+      },
+      {
+        "class": "cow",
+        "confidence": 0.8076198697090149,
+        "box": [
+          4982.99609375,
+          1469.3082275390625,
+          5145.884765625,
+          1566.3096923828125
+        ]
+      },
+      {
+        "class": "cow",
+        "confidence": 0.6790305972099304,
+        "box": [
+          80.39820861816406,
+          1832.9725341796875,
+          388.2923583984375,
+          1981.7991943359375
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 5184,
+        "h": 3456
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 0
+      },
+      "rightmost": {
+        "x": 5183,
+        "y": 1061
+      },
+      "topmost": {
+        "x": 0,
+        "y": 0
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 3455
+      },
+      "centroid": {
+        "x": 1801,
+        "y": 1230
+      },
+      "head": {
+        "x": 0,
+        "y": 0
+      },
+      "tail": {
+        "x": 5183,
+        "y": 1061
+      },
+      "hoof_front": {
+        "x": 1388,
+        "y": 3179
+      },
+      "hoof_back": {
+        "x": 1556,
+        "y": 3222
+      },
+      "contour_area": 7725616.0
+    },
+    "measurements": {
+      "body_length_px": 5290.482964720707,
+      "body_length_cm": null,
+      "height_px": 3455.0,
+      "height_cm": null,
+      "back_angle_deg": 142.80800921558037,
+      "hip_angle_deg": 142.80800921558037,
+      "hoof_front": {
+        "x": 1388,
+        "y": 3179
+      },
+      "hoof_back": {
+        "x": 1556,
+        "y": 3222
+      },
+      "score_0_100": 43.763604147011165,
+      "score_components": {
+        "length": 0.0,
+        "height": 0.0,
+        "back_angle": 28.904004607790185,
+        "hip_angle": 9.859599539220982,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "0f6aaf60f7374dddaed9ce4106110890",
+    "filename": "a642fe9e70414f0f99088bb373f97993_pexels-pripicart-457447.jpg",
+    "file_url": "/uploads/a642fe9e70414f0f99088bb373f97993_pexels-pripicart-457447.jpg",
+    "timestamp": "2025-09-13T10:57:39.717050Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9268222451210022,
+        "box": [
+          1081.21337890625,
+          1066.840576171875,
+          2749.59228515625,
+          2463.367919921875
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 0,
+        "w": 4096,
+        "h": 2731
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 256
+      },
+      "rightmost": {
+        "x": 4095,
+        "y": 731
+      },
+      "topmost": {
+        "x": 1112,
+        "y": 0
+      },
+      "bottommost": {
+        "x": 1683,
+        "y": 2730
+      },
+      "centroid": {
+        "x": 1761,
+        "y": 1012
+      },
+      "head": {
+        "x": 0,
+        "y": 256
+      },
+      "tail": {
+        "x": 4095,
+        "y": 731
+      },
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "contour_area": 5370947.5
+    },
+    "measurements": {
+      "body_length_px": 4122.4567917687145,
+      "body_length_cm": null,
+      "height_px": 2789.0752947885794,
+      "height_cm": null,
+      "back_angle_deg": 149.9010418463456,
+      "hip_angle_deg": 149.9010418463456,
+      "hoof_front": {
+        "x": 1156,
+        "y": 2512
+      },
+      "hoof_back": {
+        "x": 2406,
+        "y": 2512
+      },
+      "score_0_100": 48.95546883085552,
+      "score_components": {
+        "length": 0.0,
+        "height": 0.0,
+        "back_angle": 32.4505209231728,
+        "hip_angle": 9.50494790768272,
+        "hoof_bonus": 7.0
+      }
+    }
+  },
+  {
+    "id": "1d2d60645beb4405acc8dc9d370d3a52",
+    "filename": "0f412425753844b38e8b8436f6a5344e_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/0f412425753844b38e8b8436f6a5344e_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-13T11:10:04.476938Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "ebed43b6ae7141f4a281d332b87cd507",
+    "filename": "bb4d193b85844a2db8cd125e735a4259_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/bb4d193b85844a2db8cd125e735a4259_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-13T11:29:14.038013Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  },
+  {
+    "id": "71b398c653a74feda6b7be673d499b32",
+    "filename": "0c0555de5cc0480fb89e6f63b5d0b6d9_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "file_url": "/uploads/0c0555de5cc0480fb89e6f63b5d0b6d9_WhatsApp_Image_2025-09-09_at_22.08.33_9bf09940.jpg",
+    "timestamp": "2025-09-13T11:34:30.050240Z",
+    "detections": [
+      {
+        "class": "cow",
+        "confidence": 0.9085354804992676,
+        "box": [
+          30.943506240844727,
+          24.729598999023438,
+          255.47865295410156,
+          174.29837036132812
+        ]
+      }
+    ],
+    "landmarks": {
+      "bbox": {
+        "x": 0,
+        "y": 29,
+        "w": 275,
+        "h": 154
+      },
+      "leftmost": {
+        "x": 0,
+        "y": 41
+      },
+      "rightmost": {
+        "x": 274,
+        "y": 182
+      },
+      "topmost": {
+        "x": 50,
+        "y": 29
+      },
+      "bottommost": {
+        "x": 0,
+        "y": 182
+      },
+      "centroid": {
+        "x": 136,
+        "y": 123
+      },
+      "head": {
+        "x": 0,
+        "y": 41
+      },
+      "tail": {
+        "x": 274,
+        "y": 182
+      },
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "contour_area": 30725.0
+    },
+    "measurements": {
+      "body_length_px": 308.1509370422229,
+      "body_length_cm": null,
+      "height_px": 160.96272860510285,
+      "height_cm": null,
+      "back_angle_deg": 172.06095766182668,
+      "hip_angle_deg": 172.06095766182668,
+      "hoof_front": {
+        "x": 0,
+        "y": 182
+      },
+      "hoof_back": {
+        "x": 274,
+        "y": 182
+      },
+      "score_0_100": 100.0,
+      "score_components": {
+        "length": 27.244528111266685,
+        "height": 19.328881858153085,
+        "back_angle": 43.53047883091334,
+        "hip_angle": 8.396952116908666,
+        "hoof_bonus": 5.0
+      }
+    }
+  }
+]

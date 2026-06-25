@@ -80,5 +80,47 @@ uvicorn main:app --reload
 cd frontend
 npm install
 npm run dev
+```
 
+--- 
+
+# 📄 License
+
+Licensed under the MIT License.
+
+---
+
+# 👨‍💻 Author
+
+## Sandeep Kumar
+
+Software Engineer • AI Builder • Full Stack Developer
+
+📍 Chennai, India
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/sandeep-x47" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/sandeep-kumar-b7a8012bb/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="https://www.instagram.com/x.sandeepkumar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+</a>
+
+<a href="https://x.com/Sandeep_X47" target="_blank">
+  <img src="https://cdn.simpleicons.org/x/white" height="45" />
+</a>
+
+</p>
+
+---
 
